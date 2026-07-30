@@ -241,9 +241,17 @@
 
         <footer class="footer">
           <div class="footer__text">DISPONIBLE POUR DE NOUVEAUX DÉFIS • MOBILITÉ SELON OPPORTUNITÉ</div>
-          <div class="footer__bars" aria-hidden="true">
-            <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-          </div>
+          <details class="music-player">
+            <summary aria-label="Ouvrir le lecteur de musique" title="Écouter Good Morning">
+              <span class="footer__bars" aria-hidden="true">
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+              </span>
+              <span class="music-player__play" aria-hidden="true">▶</span>
+            </summary>
+            <div class="music-player__embed">
+              <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/fr/song/i-wonder/1451902760"></iframe>
+            </div>
+          </details>
         </footer>
       </section>
     </section>
