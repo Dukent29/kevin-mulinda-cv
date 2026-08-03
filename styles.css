@@ -127,6 +127,55 @@ body::before {
   letter-spacing: 0.04em;
 }
 
+.language-switcher {
+  position: fixed;
+  z-index: 30;
+  top: 18px;
+  right: max(22px, env(safe-area-inset-right));
+  display: flex;
+  gap: 3px;
+  padding: 4px;
+  border: 1px solid rgba(242, 179, 50, 0.35);
+  border-radius: 12px;
+  background: rgba(24, 17, 12, 0.92);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(14px);
+}
+
+.language-switcher button {
+  min-width: 42px;
+  padding: 8px 10px;
+  border: 0;
+  border-radius: 8px;
+  color: var(--muted);
+  background: transparent;
+  font: 700 0.75rem/1 'Inter', sans-serif;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+
+.language-switcher button[aria-pressed="true"] {
+  color: #24170a;
+  background: var(--gold);
+}
+
+.language-switcher button:focus-visible {
+  outline: 3px solid var(--green);
+  outline-offset: 2px;
+}
+
+.pdf-export .language-switcher,
+.pdf-export .contact-actions,
+.pdf-export .music-player {
+  display: none;
+}
+
+.pdf-export .hero__ring,
+.pdf-export .hero__portrait img,
+.pdf-export .footer__bars span {
+  animation: none;
+}
+
 .hero__portrait {
   position: relative;
   z-index: 1;
@@ -810,6 +859,7 @@ body::before {
 }
 
 @media print {
+  .language-switcher,
   .contact-actions,
   .music-player {
     display: none;

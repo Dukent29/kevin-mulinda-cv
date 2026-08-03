@@ -10,6 +10,11 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <nav class="language-switcher" aria-label="Choisir la langue">
+    <button type="button" data-lang="fr" aria-pressed="true">FR</button>
+    <button type="button" data-lang="en" aria-pressed="false">EN</button>
+  </nav>
+
   <main class="cv-page">
     <header class="hero">
       <div class="hero__intro">
@@ -280,11 +285,12 @@
         <span class="contact-actions__icon" aria-hidden="true">☎</span>
         <span><strong>Appeler</strong><small>06 26 99 36 95</small></span>
       </a>
-      <a href="Kevin_Mulinda_Bruce_CV.pdf" download="Kevin_Mulinda_Bruce_CV.pdf" type="application/pdf">
+      <a id="pdf-download" href="Kevin_Mulinda_Bruce_CV_FR.pdf" download="Kevin_Mulinda_Bruce_CV_FR.pdf" type="application/pdf">
         <span class="contact-actions__icon" aria-hidden="true">↓</span>
         <span><strong>CV en PDF</strong><small>Télécharger</small></span>
       </a>
     </nav>
   </details>
+  <script src="translations.js"></script>
 </body>
 </html>
