@@ -95,12 +95,65 @@ while ((node = walker.nextNode())) {
 const attributeTranslations = [
   [document.querySelector(".hero__portrait"), "aria-label", "Portrait de Kevin Mulinda Bruce", "Portrait of Kevin Mulinda Bruce"],
   [document.querySelector(".hero__portrait img"), "alt", "Portrait de Kevin Mulinda Bruce", "Portrait of Kevin Mulinda Bruce"],
-  [document.querySelector(".music-player summary"), "aria-label", "Ouvrir le lecteur de musique", "Open the music player"],
-  [document.querySelector(".music-player summary"), "title", "Écouter Good Morning", "Listen to Good Morning"],
-  [document.querySelector(".contact-actions summary"), "aria-label", "Ouvrir les options de contact", "Open contact options"],
   [document.querySelector(".contact-actions__menu"), "aria-label", "Contact et téléchargement", "Contact and download"],
   [document.querySelector(".language-switcher"), "aria-label", "Choisir la langue", "Choose language"]
 ];
+
+const musicPlayer = document.querySelector(".music-player");
+const musicButton = musicPlayer?.querySelector("summary");
+const musicIcon = musicPlayer?.querySelector(".music-player__play");
+const musicAudio = musicPlayer?.querySelector("audio");
+const contactActions = document.querySelector(".contact-actions");
+const contactButton = contactActions?.querySelector("summary");
+const themeButton = document.querySelector(".theme-toggle");
+
+function updateThemeButton() {
+  if (!themeButton) return;
+
+  const isDark = document.documentElement.dataset.theme === "dark";
+  const isEnglish = document.documentElement.lang === "en";
+  const label = isDark
+    ? (isEnglish ? "Switch to light theme" : "Activer le thème clair")
+    : (isEnglish ? "Switch to dark theme" : "Activer le thème sombre");
+
+  themeButton.querySelector("span").textContent = isDark ? "☀" : "☾";
+  themeButton.setAttribute("aria-label", label);
+  themeButton.setAttribute("title", label);
+  themeButton.setAttribute("aria-pressed", String(isDark));
+}
+
+function setTheme(theme, persist = true) {
+  const selectedTheme = theme === "dark" ? "dark" : "light";
+  document.documentElement.dataset.theme = selectedTheme;
+  updateThemeButton();
+  if (persist) localStorage.setItem("cv-theme", selectedTheme);
+}
+
+function updateMusicButton() {
+  if (!musicButton || !musicIcon) return;
+
+  const isPlaying = musicPlayer.open;
+  const isEnglish = document.documentElement.lang === "en";
+  const label = isPlaying
+    ? (isEnglish ? "Stop the music" : "Arrêter la musique")
+    : (isEnglish ? "Play I Wonder" : "Écouter I Wonder");
+
+  musicIcon.textContent = isPlaying ? "■" : "▶";
+  musicButton.setAttribute("aria-label", label);
+  musicButton.setAttribute("title", label);
+}
+
+function updateContactButton() {
+  if (!contactButton) return;
+
+  const isEnglish = document.documentElement.lang === "en";
+  const label = contactActions.open
+    ? (isEnglish ? "Close contact options" : "Fermer les options de contact")
+    : (isEnglish ? "Open contact options" : "Ouvrir les options de contact");
+
+  contactButton.setAttribute("aria-label", label);
+  contactButton.setAttribute("title", label);
+}
 
 function setLanguage(language, persist = true) {
   const lang = language === "en" ? "en" : "fr";
@@ -119,6 +172,9 @@ function setLanguage(language, persist = true) {
 
   document.documentElement.lang = lang;
   document.title = `Kevin Mulinda Bruce — ${lang === "en" ? "English CV" : "CV français"}`;
+  updateMusicButton();
+  updateContactButton();
+  updateThemeButton();
 
   document.querySelectorAll(".language-switcher button").forEach((button) => {
     button.setAttribute("aria-pressed", String(button.dataset.lang === lang));
@@ -139,6 +195,43 @@ document.querySelectorAll(".language-switcher button").forEach((button) => {
   button.addEventListener("click", () => setLanguage(button.dataset.lang));
 });
 
+themeButton?.addEventListener("click", () => {
+  const nextTheme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  setTheme(nextTheme);
+});
+
+musicButton?.addEventListener("click", async (event) => {
+  event.preventDefault();
+
+  if (musicPlayer.open) {
+    musicAudio.pause();
+    musicAudio.currentTime = 0;
+    musicPlayer.open = false;
+    updateMusicButton();
+    return;
+  }
+
+  musicPlayer.open = true;
+  updateMusicButton();
+
+  try {
+    await musicAudio.play();
+  } catch {
+    // The native controls remain available if automatic playback is blocked.
+  }
+});
+
+musicAudio?.addEventListener("ended", () => {
+  musicPlayer.open = false;
+  musicAudio.currentTime = 0;
+  updateMusicButton();
+});
+
+contactActions?.addEventListener("toggle", updateContactButton);
+
 const requestedLanguage = new URLSearchParams(window.location.search).get("lang");
 const initialLanguage = requestedLanguage || localStorage.getItem("cv-language") || "fr";
+const requestedTheme = new URLSearchParams(window.location.search).get("theme");
+const initialTheme = requestedTheme || localStorage.getItem("cv-theme") || "light";
+setTheme(initialTheme, false);
 setLanguage(initialLanguage, false);
