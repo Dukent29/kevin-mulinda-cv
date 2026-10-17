@@ -1,6 +1,7 @@
 """Compress exports without rasterizing text or removing hyperlinks."""
 from pathlib import Path
 import io, sys
+from decimal import Decimal
 
 root = Path(__file__).resolve().parent.parent
 sys.path[:0] = [str(root / '.pdf-tools'), str(root / '.font-tools')]
@@ -12,17 +13,27 @@ from fontTools import subset
 for name in sys.argv[1:]:
     file = Path(name)
     with pikepdf.open(file) as pdf:
+        # Browser geometry has excessive floating-point precision. One
+        # thousandth of a CSS pixel is well below visible print resolution.
+        for page in pdf.pages:
+            instructions = []
+            for operands, operator in pikepdf.parse_content_stream(page):
+                operands = [round(value, 3) if isinstance(value, Decimal) else value for value in operands]
+                instructions.append((operands, operator))
+            page.Contents = pdf.make_stream(pikepdf.unparse_content_stream(instructions))
         for obj in pdf.objects:
             if not isinstance(obj, pikepdf.Stream):
                 continue
             if obj.get('/Subtype') == '/Image' and obj.get('/Filter') == '/DCTDecode':
-                # Keep full portrait resolution; strip metadata and excess quality.
+                # About 200 dpi at its small printed size; keep text as vectors.
                 image = Image.open(io.BytesIO(obj.read_raw_bytes())).convert('RGB')
+                image.thumbnail((180, 186), Image.Resampling.LANCZOS)
                 buffer = io.BytesIO()
-                image.save(buffer, format='JPEG', quality=68, optimize=True)
+                image.save(buffer, format='JPEG', quality=65, optimize=True)
                 if len(buffer.getvalue()) < len(obj.read_raw_bytes()):
                     obj.write(buffer.getvalue(), filter=pikepdf.Name.DCTDecode)
                     obj.ColorSpace = pikepdf.Name.DeviceRGB
+                    obj.Width, obj.Height = image.size
             if '/Length1' in obj:
                 # Keep glyph indices because PDF CID maps refer to them.
                 font = TTFont(io.BytesIO(obj.read_bytes()))

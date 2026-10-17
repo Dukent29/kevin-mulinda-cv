@@ -223,18 +223,19 @@
   "projects": [
     {
       "title": {
-        "fr": "Dream Team App",
-        "en": "Dream Team App"
+        "fr": "Buildflow",
+        "en": "Buildflow"
       },
       "meta": {
-        "fr": "Nuxt.js • Node.js • MySQL",
-        "en": "Nuxt.js • Node.js • MySQL"
+        "fr": "Concept de projet • Gestion de chantier",
+        "en": "Project concept • Construction site management"
       },
       "bullets": [],
       "description": {
-        "fr": "Plateforme pour une académie de football pour enfants : suivi du potentiel des joueurs, communication avec les parents et gestion des cotisations mensuelles. Espaces utilisateurs avec gestion des rôles et authentification JWT.",
-        "en": "Youth football academy platform for tracking player potential, communicating with parents and managing monthly fees. Includes user workspaces, role management and JWT authentication."
-      }
+        "fr": "Application envisagée pour les équipes de chantier et le personnel administratif : affectation des projets, suivi de l’avancement, des activités et des démarches. Objectif : consigner problèmes et accidents hors connexion, puis transmettre les signalements au retour du réseau.",
+        "en": "Proposed application for site teams and administrative staff: project assignment, progress tracking, activity logs and paperwork. Aims to record problems and accidents offline, then send reports when connectivity returns."
+      },
+      "repository": "https://github.com/Dukent29/buildflow"
     },
     {
       "title": {
@@ -249,7 +250,8 @@
       "description": {
         "fr": "Application de suivi des plantes à distance, avec consultation des données, alertes et conseils d’entretien.",
         "en": "Remote plant-care application with data monitoring, alerts and practical care guidance."
-      }
+      },
+      "repository": "https://github.com/Dukent29/smart-gardening-front"
     }
   ],
   "education": [

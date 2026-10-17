@@ -3,7 +3,7 @@
 html, body { margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 body { min-width: 1120px; }
 .cv-page { width: 1120px; margin: 0; min-height: 0; padding-bottom: 0; box-shadow: none; }
-.display-controls, .contact-actions, .skip-link, .music-player__embed { display: none !important; }
+.display-controls, .contact-actions, .skip-link, .music-player { display: none !important; }
 .reveal-ready { opacity: 1 !important; transform: none !important; }
 *, *::before, *::after { animation: none !important; transition: none !important; }
 .hero__portrait img { transform: none !important; }
@@ -46,6 +46,8 @@ h2, h3 { break-after: avoid; }
   backdrop-filter: none !important;
   mask-image: none !important;
   background-image: none !important;
+  letter-spacing: normal !important;
+  font-kerning: none;
 }
 body::before, .hero::after { display: none !important; }
 html, body { background: #fff !important; }
@@ -58,6 +60,7 @@ body, .hero__location { font-weight: 400; }
 h1, h2, h3, strong, .timeline__section-label { font-weight: 700 !important; }
 .hero__kicker { font-family: Inter, sans-serif; }
 .hero__tagline { font-weight: 700; }
+.sidebar { border-right-style: solid !important; }
 .chips li, .interest-list li {
   border-radius: 0 !important;
   border-color: #c6a677 !important;

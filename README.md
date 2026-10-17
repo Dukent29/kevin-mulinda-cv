@@ -1,3 +1,7 @@
+# Lightweight print and downloads
+
+All FR/EN light/dark PDF exports are now below 50,000 bytes (42.1?49.0 KB). Print and download use the same prebuilt, selectable-text PDFs. The export build enforces the size budget and compresses files before publishing. See [EXPORT-PERFORMANCE.md](EXPORT-PERFORMANCE.md) for before/after measurements, scope, dependencies and reproduction commands.
+
 # Current design correction
 
 The original visual identity has been restored: Inter/Oswald typography, gold/orange palette, circular portrait, numbered sidebar panels, outlined skill chips, A/B timeline badges, equalizer and floating contact menu. The original CSS is retained with small responsive/readability overrides. Local fonts are in fonts/ (OFL licenses included), declared in fonts.css. The browser has no Google Fonts request.

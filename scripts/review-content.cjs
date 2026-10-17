@@ -17,8 +17,13 @@ const assert = require('node:assert/strict');
    await section.evaluate(el=>el.scrollIntoView({block:'start',behavior:'instant'}));
    await page.waitForTimeout(900);
    const text=await section.innerText();
-   for(const value of ['Nuxt.js','Next.js','JWT']) assert(text.includes(value));
-   assert(text.includes(lang==='en'?'monthly fees':'cotisations mensuelles'));
+   for(const value of ['Buildflow','Next.js','Smart Gardening']) assert(text.includes(value));
+   assert(!text.includes('Dream Team'));
+   assert(text.includes(lang==='en'?'Project concept':'Concept de projet'));
+   assert(text.includes(lang==='en'?'offline':'hors connexion'));
+   for(const repository of ['buildflow','smart-gardening-front']) {
+    assert.equal(await section.locator(`a[href="https://github.com/Dukent29/${repository}"]`).count(),1);
+   }
    assert(text.includes(lang==='en'?'Remote plant-care':'plantes à distance'));
    await section.screenshot({path:path.join(root,'artifacts',`projects-${lang}-${theme}-${width}.png`)});
   }

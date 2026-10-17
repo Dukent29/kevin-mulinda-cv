@@ -306,6 +306,7 @@ body::before {
 
 .timeline__main {
   min-width: 0;
+  padding-bottom: 16px;
 }
 
 .timeline__rail {
@@ -1124,6 +1125,7 @@ html[data-theme="dark"] .contact-actions__icon { color: #24170a; }
 /* Small upgrades to the original design. Print/PDF uses its own stylesheet. */
 html{scroll-behavior:smooth}
 body{font-family:Inter,Arial,sans-serif}
+.project-source a{color:inherit;text-decoration:underline;text-underline-offset:.15em;overflow-wrap:anywhere}
 .hero{padding-top:76px}
 .hero__intro{min-width:0}
 .hero h1{font-size:clamp(2.8rem,5vw,4.2rem);line-height:1}

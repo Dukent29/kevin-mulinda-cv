@@ -1,83 +1,67 @@
-01 PROFIL
+01PROFIL
 Professionnel de l'informatique polyvalent,avec une expérience en assistanceutilisateurs, installation et configuration depostes de travail, déploiement d'outilsbureautiques et résolution d'incidentscourants. Également expérimenté endéveloppement web, je combinecompétences techniques, sens du serviceet capacité d'adaptation pour accompagnerles utilisateurs dans leur environnementnumérique. Actuellement en formationBac+5 en ingénierie informatique.
 02COMPÉTENCES
-SUPPORT INFORMATIQUEExpérience pratique
+SUPPORT INFORMATIQUE
+Expérience pratique
 Assistance utilisateurs
 Résolution d’incidents courants
 Installation et configuration de postes
 Préparation des environnements utilisateurs
-Déploiement bureautique
- Maintenance matérielle
-ENVIRONNEMENT MICROSOFTConnaissances de base
-Windows 10 / 11
- Microsoft 365
-Outlook, Word, Excel, Teams
- Active Directory
+Déploiement bureautique Maintenance matérielle
+ENVIRONNEMENT MICROSOFT
+Connaissances de base
+Windows 10 / 11 Microsoft 365
+Outlook, Word, Excel, Teams Active Directory
 Comptes et droits utilisateurs
-RÉSEAUX ET SYSTÈMESConnaissances de base
-TCP/IP
- DNS
- DHCP
- VLAN
+RÉSEAUX ET SYSTÈMES
+Connaissances de base
+TCP/IP DNS DHCP VLAN
 Configuration réseau de base
 Diagnostic de connectivité
 Environnements Windows
-DÉVELOPPEMENT ET AUTOMATISATIONCompétences complémentaires
-JavaScript
- React / Next.js / Angular / Nuxt
-Node.js
- PHP / Symfony
- SQL
- APIs
-Git / GitHub
- Docker
- TypeScript (depuis 2023)
-OUTILS COMPLÉMENTAIRESWeb, données et hébergement
-HTML / CSS
-WordPress / Elementor / Webflow
+DÉVELOPPEMENT ET AUTOMATISATION
+Compétences complémentaires
+JavaScript React / Next.js / Angular / Nuxt
+Node.js PHP / Symfony SQL APIs
+Git / GitHub Docker TypeScript (depuis 2023)
+OUTILS COMPLÉMENTAIRES
+Web, données et hébergement
+HTML / CSSWordPress / Elementor / Webflow
 Firebase
-PostgreSQL / MySQL / Oracle / MongoDB
- Figma
+PostgreSQL / MySQL / Oracle / MongoDB Figma
 OVH / Ionos / Infomaniak
 03FORMATIONMaster 1 Ingénierie informatiqueNeed For School, Rouen — octobre 2025 →aujourd'hui
 Bac+3 Développement & IntégrationWeb & applications mobilesNeed For School, Rouen — Octobre 2022 →septembre 2025
 Développement & Intégration WebCESI Rouen — 2021 → 2022
-04CENTRES D’INTÉRÊT
-Cuisine
-Cinéma
-Documentaires
-Réseaux sociaux
-Football
-Voyages
-Sensations fortes
-Découvertes culturelles
-05ATOUTS
-Autonomie
- Esprit d’équipe
- Énergie
-▸  EXPÉRIENCES PROFESSIONNELLES
+EXPÉRIENCES PROFESSIONNELLES
 — SIDE A — Expérience en support mise en avant
 A1 Assistant informatique / déploiement bureautiqueBouygues — avr. 2025 → août 2025
 A2 Développeur web — Kotan Voyagesept. 2025 → sept. 2026
 A3 Développeur web en alternanceHorspiste — oct. 2023 → août 2024
 A4 Stagiaire front-endEspoir Jeunes — avr. 2023 → juin 2023
 A5 Développeur full-stack en alternanceBearStudio — sept. 2021 → juil. 2022
-▸  PROJETS SÉLECTIONNÉS
+PROJETS SÉLECTIONNÉS
 — SIDE B —
-B1 Dream Team AppNuxt.js • Node.js • MySQLPlateforme pour une académie de football pour enfants : suivi du potentiel des joueurs,communication avec les parents et gestion des cotisations mensuelles. Espaces utilisateursavec gestion des rôles et authentification JWT.
-B2 Smart Gardening AssistantNext.js • Node.js • MongoDBApplication de suivi des plantes à distance, avec consultation des données, alertes etconseils d’entretien.
-▸  AUTRES EXPÉRIENCES
+B1 BuildflowConcept de projet • Gestion de chantierApplication envisagée pour les équipes de chantier et le personnel administratif : affectationdes projets, suivi de l’avancement, des activités et des démarches. Objectif : consignerproblèmes et accidents hors connexion, puis transmettre les signalements au retour duréseau.GitHub: Dukent29/buildflow
+B2 Smart Gardening AssistantNext.js • Node.js • MongoDBApplication de suivi des plantes à distance, avec consultation des données, alertes etconseils d’entretien.GitHub: Dukent29/smart-gardening-front
+AUTRES EXPÉRIENCES
 C1 Hôtellerie-restauration et entretienPlongeur hôtel-restaurant · Agent de nettoyage bureaux
+ATOUTS
+Autonomie Esprit d’équipe Énergie
+CENTRES D’INTÉRÊT
+CuisineCinémaDocumentairesRéseaux sociauxFootballVoyagesSensations fortes
+Découvertes culturelles
 ROUEN, FRANCE · MOBILE EN ÎLE-DE-FRANCE
 Installation et configuration d'outils bureautiques et de communication pour les utilisateurs.—Préparation des postes, espaces utilisateurs et environnements de travail.—Accompagnement à la prise en main des logiciels internes et résolution des difficultéscourantes.—
 Développement de sites de réservation et intégration d’APIs, dont RateHawk.—Structuration de bases de données et automatisation des flux métiers.—Gestion des paiements et des webhooks, avec les vérifications associées.—
-Développement de sites, intranets et PWA avec WordPress et Elementor ; collaboration avecles designers.—
+Développement de sites, intranets et PWA avec WordPress et Elementor ; collaborationavec les designers.—
 Création de moncarrebois.fr et de sa boutique en ligne.—
 Refonte d'un site vitrine, attention portée au responsive design, à l'accessibilité et au SEOde base.—
 Développement d'interfaces responsives avec Next.js et Tailwind CSS.—Contribution aux fonctionnalités front-end et back-end avec Firebase et Node.js, encollaboration avec le design.—
 Ponctualité et respect des consignes dans des environnements au rythme soutenu.—
 /// rouen_france - profil_disponible
 KEVIN MULINDABRUCETECHNICIEN SUPPORT INFORMATIQUE
-Support utilisateurs · Helpdesk · Déploiement de postes · Microsoft 365Rouen, France · Mobile en Île-de-France
+Support utilisateurs · Helpdesk · Déploiement de postes · Microsoft 365
+Rouen, France · Mobile en Île-de-France
 Anglais : courant · Français : courant · Espagnol : notions
-06 26 99 36 95 mulindakevin7@gmail.comLinkedIn GitHub
+06 26 99 36 95mulindakevin7@gmail.comLinkedInGitHub
