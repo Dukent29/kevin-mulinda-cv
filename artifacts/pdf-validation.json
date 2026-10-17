@@ -1,0 +1,54 @@
+[
+  {
+    "language": "FR",
+    "theme": "light",
+    "pages": 1,
+    "bytes": 522894,
+    "characters": 4162,
+    "links": [
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  },
+  {
+    "language": "FR",
+    "theme": "dark",
+    "pages": 1,
+    "bytes": 550716,
+    "characters": 4162,
+    "links": [
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  },
+  {
+    "language": "EN",
+    "theme": "light",
+    "pages": 1,
+    "bytes": 503565,
+    "characters": 3791,
+    "links": [
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  },
+  {
+    "language": "EN",
+    "theme": "dark",
+    "pages": 1,
+    "bytes": 552025,
+    "characters": 3791,
+    "links": [
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  }
+]

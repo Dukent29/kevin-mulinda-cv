@@ -1,0 +1,357 @@
+{
+  "name": "Kevin Mulinda Bruce",
+  "role": {
+    "fr": "TECHNICIEN SUPPORT INFORMATIQUE",
+    "en": "IT SUPPORT TECHNICIAN"
+  },
+  "subtitle": {
+    "fr": "Support utilisateurs · Helpdesk · Déploiement de postes · Microsoft 365",
+    "en": "User Support · Service Desk · Workstation Deployment · Microsoft 365"
+  },
+  "location": {
+    "fr": "Rouen, France · Mobile en Île-de-France",
+    "en": "Rouen, France · Available to work in the Paris region"
+  },
+  "languages": {
+    "fr": "Anglais : courant · Français : courant · Espagnol : notions",
+    "en": "English: fluent · French: fluent · Spanish: basic"
+  },
+  "summary": {
+    "fr": "Professionnel de l'informatique polyvalent, avec une expérience en assistance utilisateurs, installation et configuration de postes de travail, déploiement d'outils bureautiques et résolution d'incidents courants. Également expérimenté en développement web, je combine compétences techniques, sens du service et capacité d'adaptation pour accompagner les utilisateurs dans leur environnement numérique. Actuellement en formation Bac+5 en ingénierie informatique.",
+    "en": "Versatile IT professional with experience in end-user support, workstation setup, office software deployment and troubleshooting common technical issues. With additional experience in web development, I combine technical problem-solving, communication and adaptability to support users and business operations. Currently pursuing a master's-level qualification in computer engineering."
+  },
+  "skills": [
+    {
+      "title": {
+        "fr": "Support informatique",
+        "en": "IT support"
+      },
+      "detail": {
+        "fr": "Expérience pratique",
+        "en": "Practical experience"
+      },
+      "items": {
+        "fr": "Assistance utilisateurs · Résolution d’incidents courants · Installation et configuration de postes · Préparation des environnements utilisateurs · Déploiement bureautique · Maintenance matérielle",
+        "en": "User assistance · Common incident resolution · Workstation setup and configuration · User environment preparation · Office software deployment · Hardware maintenance"
+      }
+    },
+    {
+      "title": {
+        "fr": "Environnement Microsoft",
+        "en": "Microsoft environment"
+      },
+      "detail": {
+        "fr": "Connaissances de base",
+        "en": "Foundational knowledge"
+      },
+      "items": {
+        "fr": "Windows 10 / 11 · Microsoft 365 · Outlook, Word, Excel, Teams · Active Directory · Comptes et droits utilisateurs",
+        "en": "Windows 10 / 11 · Microsoft 365 · Outlook, Word, Excel, Teams · Active Directory · User accounts and permissions"
+      }
+    },
+    {
+      "title": {
+        "fr": "Réseaux et systèmes",
+        "en": "Networks and systems"
+      },
+      "detail": {
+        "fr": "Connaissances de base",
+        "en": "Foundational knowledge"
+      },
+      "items": {
+        "fr": "TCP/IP · DNS · DHCP · VLAN · Configuration réseau de base · Diagnostic de connectivité · Environnements Windows",
+        "en": "TCP/IP · DNS · DHCP · VLAN · Basic network configuration · Connectivity troubleshooting · Windows environments"
+      }
+    },
+    {
+      "title": {
+        "fr": "Développement et automatisation",
+        "en": "Development and automation"
+      },
+      "detail": {
+        "fr": "Compétences complémentaires",
+        "en": "Complementary skills"
+      },
+      "items": {
+        "fr": "JavaScript · React / Next.js / Angular / Nuxt · Node.js · PHP / Symfony · SQL · APIs · Git / GitHub · Docker · TypeScript (depuis 2023)",
+        "en": "JavaScript · React / Next.js / Angular / Nuxt · Node.js · PHP / Symfony · SQL · APIs · Git / GitHub · Docker · TypeScript (since 2023)"
+      }
+    },
+    {
+      "title": {
+        "fr": "Outils complémentaires",
+        "en": "Additional tools"
+      },
+      "detail": {
+        "fr": "Web, données et hébergement",
+        "en": "Web, data and hosting"
+      },
+      "items": {
+        "fr": "HTML / CSS · WordPress / Elementor / Webflow · Firebase · PostgreSQL / MySQL / Oracle / MongoDB · Figma · OVH / Ionos / Infomaniak",
+        "en": "HTML / CSS · WordPress / Elementor / Webflow · Firebase · PostgreSQL / MySQL / Oracle / MongoDB · Figma · OVH / Ionos / Infomaniak"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "title": {
+        "fr": "Assistant informatique / déploiement bureautique",
+        "en": "IT Support Assistant / Office Software Deployment"
+      },
+      "meta": {
+        "fr": "Bouygues — avr. 2025 → août 2025",
+        "en": "Bouygues — Apr. 2025 → Aug. 2025"
+      },
+      "bullets": [
+        {
+          "fr": "Installation et configuration d'outils bureautiques et de communication pour les utilisateurs.",
+          "en": "Installed and configured office and communication tools for users."
+        },
+        {
+          "fr": "Préparation des postes, espaces utilisateurs et environnements de travail.",
+          "en": "Prepared workstations, user workspaces and work environments."
+        },
+        {
+          "fr": "Accompagnement à la prise en main des logiciels internes et résolution des difficultés courantes.",
+          "en": "Helped users get started with internal software and resolved common issues."
+        }
+      ],
+      "description": null
+    },
+    {
+      "title": {
+        "fr": "Développeur web — Kotan Voyage",
+        "en": "Web Developer — Kotan Voyage"
+      },
+      "meta": {
+        "fr": "sept. 2025 → sept. 2026",
+        "en": "Sep. 2025 → Sep. 2026"
+      },
+      "bullets": [
+        {
+          "fr": "Développement de sites de réservation et intégration d’APIs, dont RateHawk.",
+          "en": "Developed booking websites and integrated APIs, including RateHawk."
+        },
+        {
+          "fr": "Structuration de bases de données et automatisation des flux métiers.",
+          "en": "Structured databases and automated business workflows."
+        },
+        {
+          "fr": "Gestion des paiements et des webhooks, avec les vérifications associées.",
+          "en": "Managed payments, webhooks and related verifications."
+        }
+      ],
+      "description": null
+    },
+    {
+      "title": {
+        "fr": "Développeur web en alternance",
+        "en": "Apprentice Web Developer"
+      },
+      "meta": {
+        "fr": "Horspiste — oct. 2023 → août 2024",
+        "en": "Horspiste — Oct. 2023 → Aug. 2024"
+      },
+      "bullets": [
+        {
+          "fr": "Développement de sites, intranets et PWA avec WordPress et Elementor ; collaboration avec les designers.",
+          "en": "Developed websites, intranets and PWAs with WordPress and Elementor; collaborated with designers."
+        },
+        {
+          "fr": "Création de moncarrebois.fr et de sa boutique en ligne.",
+          "en": "Built moncarrebois.fr and its online store."
+        }
+      ],
+      "description": null
+    },
+    {
+      "title": {
+        "fr": "Stagiaire front-end",
+        "en": "Front-end Developer Intern"
+      },
+      "meta": {
+        "fr": "Espoir Jeunes — avr. 2023 → juin 2023",
+        "en": "Espoir Jeunes — Apr. 2023 → Jun. 2023"
+      },
+      "bullets": [
+        {
+          "fr": "Refonte d'un site vitrine, attention portée au responsive design, à l'accessibilité et au SEO de base.",
+          "en": "Redesigned a showcase website with a focus on responsive design, accessibility and fundamental SEO."
+        }
+      ],
+      "description": null
+    },
+    {
+      "title": {
+        "fr": "Développeur full-stack en alternance",
+        "en": "Apprentice Full-stack Developer"
+      },
+      "meta": {
+        "fr": "BearStudio — sept. 2021 → juil. 2022",
+        "en": "BearStudio — Sep. 2021 → Jul. 2022"
+      },
+      "bullets": [
+        {
+          "fr": "Développement d'interfaces responsives avec Next.js et Tailwind CSS.",
+          "en": "Developed responsive interfaces with Next.js and Tailwind CSS."
+        },
+        {
+          "fr": "Contribution aux fonctionnalités front-end et back-end avec Firebase et Node.js, en collaboration avec le design.",
+          "en": "Contributed to front-end and back-end features using Firebase and Node.js, in collaboration with the design team."
+        }
+      ],
+      "description": null
+    }
+  ],
+  "additional": {
+    "title": {
+      "fr": "Hôtellerie-restauration et entretien",
+      "en": "Hospitality & cleaning"
+    },
+    "meta": {
+      "fr": "Plongeur hôtel-restaurant · Agent de nettoyage bureaux",
+      "en": "Hotel/restaurant kitchen porter · Office cleaner"
+    },
+    "bullets": [
+      {
+        "fr": "Ponctualité et respect des consignes dans des environnements au rythme soutenu.",
+        "en": "Maintained punctuality and followed procedures in fast-paced work environments."
+      }
+    ],
+    "description": null
+  },
+  "projects": [
+    {
+      "title": {
+        "fr": "Dream Team App",
+        "en": "Dream Team App"
+      },
+      "meta": {
+        "fr": "Nuxt.js • Node.js • MySQL",
+        "en": "Nuxt.js • Node.js • MySQL"
+      },
+      "bullets": [],
+      "description": {
+        "fr": "Plateforme pour une académie de football pour enfants : suivi du potentiel des joueurs, communication avec les parents et gestion des cotisations mensuelles. Espaces utilisateurs avec gestion des rôles et authentification JWT.",
+        "en": "Youth football academy platform for tracking player potential, communicating with parents and managing monthly fees. Includes user workspaces, role management and JWT authentication."
+      }
+    },
+    {
+      "title": {
+        "fr": "Smart Gardening Assistant",
+        "en": "Smart Gardening Assistant"
+      },
+      "meta": {
+        "fr": "Next.js • Node.js • MongoDB",
+        "en": "Next.js • Node.js • MongoDB"
+      },
+      "bullets": [],
+      "description": {
+        "fr": "Application de suivi des plantes à distance, avec consultation des données, alertes et conseils d’entretien.",
+        "en": "Remote plant-care application with data monitoring, alerts and practical care guidance."
+      }
+    }
+  ],
+  "education": [
+    {
+      "title": {
+        "fr": "Master 1 Ingénierie informatique",
+        "en": "Master's Year 1 in Computer Engineering"
+      },
+      "meta": {
+        "fr": "Need For School, Rouen — octobre 2025 → aujourd'hui",
+        "en": "Need For School, Rouen — October 2025 → present"
+      }
+    },
+    {
+      "title": {
+        "fr": "Bac+3 Développement & Intégration Web & applications mobiles",
+        "en": "Bac+3 qualification in Web Development, Integration & Mobile Applications"
+      },
+      "meta": {
+        "fr": "Need For School, Rouen — Octobre 2022 → septembre 2025",
+        "en": "Need For School, Rouen — October 2022 → September 2025"
+      }
+    },
+    {
+      "title": {
+        "fr": "Développement & Intégration Web",
+        "en": "Web Development & Integration"
+      },
+      "meta": {
+        "fr": "CESI Rouen — 2021 → 2022",
+        "en": "CESI Rouen — 2021 → 2022"
+      }
+    }
+  ],
+  "interests": {
+    "fr": "Cuisine · Cinéma · Documentaires · Réseaux sociaux · Football · Voyages · Sensations fortes · Découvertes culturelles",
+    "en": "Cooking · Cinema · Documentaries · Social media · Football · Travel · Thrill-seeking activities · Cultural discovery"
+  },
+  "strengths": {
+    "fr": "Autonomie · Esprit d’équipe · Énergie",
+    "en": "Independence · Teamwork · Energy"
+  },
+  "labels": {
+    "profile": {
+      "fr": "Profil",
+      "en": "Profile"
+    },
+    "skills": {
+      "fr": "Compétences",
+      "en": "Skills"
+    },
+    "experience": {
+      "fr": "Expériences professionnelles",
+      "en": "Professional experience"
+    },
+    "relevance": {
+      "fr": "Expérience en support mise en avant",
+      "en": "Support experience highlighted"
+    },
+    "education": {
+      "fr": "Formation",
+      "en": "Education"
+    },
+    "projects": {
+      "fr": "Projets sélectionnés",
+      "en": "Selected projects"
+    },
+    "additional": {
+      "fr": "Autres expériences",
+      "en": "Additional experience"
+    },
+    "interests": {
+      "fr": "Centres d’intérêt",
+      "en": "Interests"
+    },
+    "strengths": {
+      "fr": "Atouts",
+      "en": "Strengths"
+    },
+    "download": {
+      "fr": "Télécharger le CV",
+      "en": "Download CV"
+    },
+    "print": {
+      "fr": "Imprimer",
+      "en": "Print"
+    },
+    "music": {
+      "fr": "Écouter I Wonder",
+      "en": "Listen to I Wonder"
+    },
+    "skip": {
+      "fr": "Aller au contenu",
+      "en": "Skip to content"
+    },
+    "contact": {
+      "fr": "Contact",
+      "en": "Contact"
+    },
+    "theme": {
+      "fr": "Changer de thème",
+      "en": "Switch theme"
+    }
+  }
+}

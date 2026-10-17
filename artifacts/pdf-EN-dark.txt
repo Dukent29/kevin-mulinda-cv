@@ -1,0 +1,83 @@
+01 PROFILE
+Versatile IT professional with experience inend-user support, workstation setup, officesoftware deployment and troubleshootingcommon technical issues. With additionalexperience in web development, I combinetechnical problem-solving, communicationand adaptability to support users andbusiness operations. Currently pursuing amaster's-level qualification in computerengineering.
+02SKILLS
+IT SUPPORTPractical experience
+User assistance
+ Common incident resolution
+Workstation setup and configuration
+User environment preparation
+Office software deployment
+Hardware maintenance
+MICROSOFT ENVIRONMENTFoundational knowledge
+Windows 10 / 11
+ Microsoft 365
+Outlook, Word, Excel, Teams
+ Active Directory
+User accounts and permissions
+NETWORKS AND SYSTEMSFoundational knowledge
+TCP/IP
+ DNS
+ DHCP
+ VLAN
+Basic network configuration
+Connectivity troubleshooting
+Windows environments
+DEVELOPMENT AND AUTOMATIONComplementary skills
+JavaScript
+ React / Next.js / Angular / Nuxt
+Node.js
+ PHP / Symfony
+ SQL
+ APIs
+Git / GitHub
+ Docker
+ TypeScript (since 2023)
+ADDITIONAL TOOLSWeb, data and hosting
+HTML / CSS
+WordPress / Elementor / Webflow
+Firebase
+PostgreSQL / MySQL / Oracle / MongoDB
+ Figma
+OVH / Ionos / Infomaniak
+03EDUCATIONMaster's Year 1 in ComputerEngineeringNeed For School, Rouen — October 2025 → present
+Bac+3 qualification in WebDevelopment, Integration & MobileApplicationsNeed For School, Rouen — October 2022 →September 2025
+Web Development & IntegrationCESI Rouen — 2021 → 2022
+04INTERESTS
+Cooking
+Cinema
+Documentaries
+Social media
+Football
+Travel
+ Thrill-seeking activities
+Cultural discovery
+05STRENGTHS
+Independence
+ Teamwork
+ Energy
+▸  PROFESSIONAL EXPERIENCE
+— SIDE A — Support experience highlighted
+A1 IT Support Assistant / Office Software DeploymentBouygues — Apr. 2025 → Aug. 2025
+A2 Web Developer — Kotan VoyageSep. 2025 → Sep. 2026
+A3 Apprentice Web DeveloperHorspiste — Oct. 2023 → Aug. 2024
+A4 Front-end Developer InternEspoir Jeunes — Apr. 2023 → Jun. 2023
+A5 Apprentice Full-stack DeveloperBearStudio — Sep. 2021 → Jul. 2022
+▸  SELECTED PROJECTS
+— SIDE B —
+B1 Dream Team AppNuxt.js • Node.js • MySQLYouth football academy platform for tracking player potential, communicating with parentsand managing monthly fees. Includes user workspaces, role management and JWTauthentication.
+B2 Smart Gardening AssistantNext.js • Node.js • MongoDBRemote plant-care application with data monitoring, alerts and practical care guidance.
+▸  ADDITIONAL EXPERIENCE
+C1 Hospitality & cleaningHotel/restaurant kitchen porter · Office cleaner
+ROUEN, FRANCE · AVAILABLE TO WORK IN THE PARIS REGION
+Installed and configured office and communication tools for users.—Prepared workstations, user workspaces and work environments.—Helped users get started with internal software and resolved common issues.—
+Developed booking websites and integrated APIs, including RateHawk.—Structured databases and automated business workflows.—Managed payments, webhooks and related verifications.—
+Developed websites, intranets and PWAs with WordPress and Elementor; collaborated withdesigners.—
+Built moncarrebois.fr and its online store.—
+Redesigned a showcase website with a focus on responsive design, accessibility andfundamental SEO.—
+Developed responsive interfaces with Next.js and Tailwind CSS.—Contributed to front-end and back-end features using Firebase and Node.js, in collaborationwith the design team.—
+Maintained punctuality and followed procedures in fast-paced work environments.—
+/// rouen_france - available_profile
+KEVIN MULINDABRUCEIT SUPPORT TECHNICIAN
+User Support · Service Desk · Workstation Deployment · Microsoft 365Rouen, France · Available to work in the Paris region
+English: fluent · French: fluent · Spanish: basic
+06 26 99 36 95 mulindakevin7@gmail.comLinkedIn GitHub

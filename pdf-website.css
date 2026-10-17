@@ -1,0 +1,67 @@
+/* PDF-only overrides. The typography, colours and columns come from styles.css. */
+@page { size: A4; margin: 0; }
+html, body { margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { min-width: 1120px; }
+.cv-page { width: 1120px; margin: 0; min-height: 0; padding-bottom: 0; box-shadow: none; }
+.display-controls, .contact-actions, .skip-link, .music-player__embed { display: none !important; }
+.reveal-ready { opacity: 1 !important; transform: none !important; }
+*, *::before, *::after { animation: none !important; transition: none !important; }
+.hero__portrait img { transform: none !important; }
+.hero, .entry, .skill-group, .education-item, .footer { break-inside: avoid; }
+h2, h3 { break-after: avoid; }
+
+/* Compact only the paper export; keep every section on one A4 sheet. */
+.hero { padding: 24px 28px 18px; }
+.hero h1 { font-size: 3.2rem; }
+.hero__kicker { margin: 0 0 10px; }
+.hero__role { margin-top: 10px; font-size: 1.8rem; }
+.hero__tagline, .hero__languages { margin: 6px 0; }
+.hero__location { margin: 6px 0; }
+.hero__contacts { margin-top: 6px; }
+.content { grid-template-columns: 360px minmax(0, 1fr); }
+.sidebar, .timeline { padding: 16px 20px; }
+.panel { margin-bottom: 12px; }
+.panel h2 { margin-bottom: 6px; }
+.panel p, .education-item p, .entry__body p, .entry__body li { line-height: 1.25; }
+.skill-group { margin-bottom: 9px; }
+.skill-group h3 { margin-bottom: 4px; letter-spacing: .14em; }
+.panel .skill-level { margin-bottom: 4px; }
+.chips, .interest-list { gap: 4px; }
+.chips li, .interest-list li { padding: 4px 6px; }
+.education-item + .education-item { margin-top: 7px; }
+.entry { margin-bottom: 12px; }
+.entry__body li { margin-bottom: 4px; }
+.entry__body p { margin-top: 6px; margin-bottom: 6px; }
+.timeline__section-label { margin-bottom: 8px; padding-bottom: 6px; }
+.timeline-block + .timeline-block { margin-top: 12px; }
+.timeline-group { margin-bottom: 7px; }
+.footer { min-height: 40px; padding: 6px 12px; }
+
+/* Keep exports vector-based: blurred masks and decorative gradients otherwise
+   become large raster images in Chromium's PDF output. */
+*, *::before, *::after {
+  box-shadow: none !important;
+  text-shadow: none !important;
+  filter: none !important;
+  backdrop-filter: none !important;
+  mask-image: none !important;
+  background-image: none !important;
+}
+body::before, .hero::after { display: none !important; }
+html, body { background: #fff !important; }
+.hero { background: #fff !important; }
+html[data-theme="dark"], html[data-theme="dark"] body,
+html[data-theme="dark"] .hero { background: #140f0b !important; }
+/* Three embedded faces retain Inter/Oswald while avoiding many near-identical
+   font subsets. Section headings use Oswald bold; body emphasis uses Inter bold. */
+body, .hero__location { font-weight: 400; }
+h1, h2, h3, strong, .timeline__section-label { font-weight: 700 !important; }
+.hero__kicker { font-family: Inter, sans-serif; }
+.hero__tagline { font-weight: 700; }
+.chips li, .interest-list li {
+  border-radius: 0 !important;
+  border-color: #c6a677 !important;
+}
+html[data-theme="dark"] .chips li, html[data-theme="dark"] .interest-list li {
+  border-color: #806333 !important;
+}

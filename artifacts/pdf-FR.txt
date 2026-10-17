@@ -1,0 +1,76 @@
+Kevin Mulinda Bruce
+TECHNICIEN SUPPORT
+INFORMATIQUE
+Support utilisateurs · Helpdesk · Déploiement de postes · Microsoft 365
+Rouen, France · Mobile en Île-de-France
+Anglais : courant · Français : courant · Espagnol : notions
+mulindakevin7@gmail.com 06 26 99 36 95 LinkedIn: linkedin.com/in/mulindakevin GitHub: github.com/dukent29
+PROFIL
+Professionnel de l'informatique polyvalent, avec une expérience en assistance utilisateurs, installation et configuration de postes
+de travail, déploiement d'outils bureautiques et résolution d'incidents courants. Également expérimenté en développement web,
+je combine compétences techniques, sens du service et capacité d'adaptation pour accompagner les utilisateurs dans leur
+environnement numérique. Actuellement en formation Bac+5 en ingénierie informatique.
+EXPÉRIENCES PROFESSIONNELLES
+Assistant informatique / déploiement bureautique
+Bouygues — avr. 2025 → août 2025
+Installation et configuration d'outils bureautiques et de communication pour les utilisateurs.
+Préparation des postes, espaces utilisateurs et environnements de travail.
+Accompagnement à la prise en main des logiciels internes et résolution des difficultés courantes.
+Développeur web — Kotan Voyage
+sept. 2025 → sept. 2026
+Développement de sites de réservation et intégration d’APIs, dont RateHawk.
+Structuration de bases de données et automatisation des flux métiers.
+Gestion des paiements et des webhooks, avec les vérifications associées.
+Développeur web en alternance
+Horspiste — oct. 2023 → août 2024
+Développement de sites, intranets et PWA avec WordPress et Elementor ; collaboration avec les designers.
+Création de moncarrebois.fr et de sa boutique en ligne.
+Stagiaire front-end
+Espoir Jeunes — avr. 2023 → juin 2023
+Refonte d'un site vitrine, attention portée au responsive design, à l'accessibilité et au SEO de base.
+Développeur full-stack en alternance
+BearStudio — sept. 2021 → juil. 2022
+Développement d'interfaces responsives avec Next.js et Tailwind CSS.
+Contribution aux fonctionnalités front-end et back-end avec Firebase et Node.js, en collaboration avec le design.
+AUTRES EXPÉRIENCES
+Hôtellerie-restauration et entretien
+Plongeur hôtel-restaurant · Agent de nettoyage bureaux
+Ponctualité et respect des consignes dans des environnements au rythme soutenu.
+Kevin Mulinda Bruce · TECHNICIEN SUPPORT INFORMATIQUE
+COMPÉTENCES
+Support informatique
+EXPÉRIENCE PRATIQUE
+Assistance utilisateurs · Résolution d’incidents courants · Installation et configuration de postes · Préparation des
+environnements utilisateurs · Déploiement bureautique · Maintenance matérielle
+Environnement Microsoft
+CONNAISSANCES DE BASE
+Windows 10 / 11 · Microsoft 365 · Outlook, Word, Excel, Teams · Active Directory · Comptes et droits utilisateurs
+Réseaux et systèmes
+CONNAISSANCES DE BASE
+TCP/IP · DNS · DHCP · VLAN · Configuration réseau de base · Diagnostic de connectivité · Environnements Windows
+Développement et automatisation
+COMPÉTENCES COMPLÉMENTAIRES
+JavaScript · React / Next.js / Angular / Nuxt · Node.js · PHP / Symfony · SQL · APIs · Git / GitHub · Docker · TypeScript (notions)
+Outils complémentaires
+WEB, DONNÉES ET HÉBERGEMENT
+HTML / CSS · WordPress / Elementor / Webflow · Firebase · PostgreSQL / MySQL / Oracle / MongoDB · Figma · OVH / Ionos /
+Infomaniak
+FORMATION
+Master 1 Ingénierie informatique
+Need For School, Rouen — octobre 2025 → aujourd'hui
+Bac+3 Développement & Intégration Web & applications mobiles
+Need For School, Rouen — Octobre 2022 → septembre 2025
+Développement & Intégration Web
+CESI Rouen — 2021 → 2022
+PROJETS SÉLECTIONNÉS
+Dream Team App
+Nuxt.js • Node.js • MySQL
+Plateforme pour une académie de football pour enfants : suivi du potentiel des joueurs, communication avec les
+parents et gestion des cotisations mensuelles. Espaces utilisateurs avec gestion des rôles et authentification JWT.
+Smart Gardening Assistant
+Next.js • Node.js • MongoDB
+Application de suivi des plantes à distance, avec consultation des données, alertes et conseils d’entretien.
+ATOUTS
+Autonomie · Esprit d’équipe · Énergie
+CENTRES D’INTÉRÊT
+Cuisine · Cinéma · Documentaires · Réseaux sociaux · Football · Voyages · Sensations fortes · Découvertes culturelles
