@@ -1,0 +1,235 @@
+[
+  {
+    "lcp": 5600,
+    "cls": 0,
+    "navigation": {
+      "name": "http://127.0.0.1:60405/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 5762.0999999940395,
+      "navigationId": 6265,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 11.599999994039536,
+      "domainLookupStart": 17.299999997019768,
+      "domainLookupEnd": 17.299999997019768,
+      "connectStart": 17.299999997019768,
+      "secureConnectionStart": 0,
+      "connectEnd": 37.79999999701977,
+      "requestStart": 41.099999994039536,
+      "responseStart": 305.59999999403954,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 305.59999999403954,
+      "responseEnd": 368.70000000298023,
+      "transferSize": 9683,
+      "encodedBodySize": 9383,
+      "decodedBodySize": 9383,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 4584.5999999940395,
+      "domContentLoadedEventStart": 4611.0999999940395,
+      "domContentLoadedEventEnd": 4611.29999999702,
+      "domComplete": 5761.20000000298,
+      "loadEventStart": 5761.79999999702,
+      "loadEventEnd": 5762.0999999940395,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "domContentLoaded": 4611.29999999702,
+    "resources": [
+      {
+        "name": "styles.css",
+        "bytes": 8587,
+        "duration": 285.09999999403954
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 329.29999999701977
+      },
+      {
+        "name": "translations.js",
+        "bytes": 1889,
+        "duration": 449.29999999701977
+      },
+      {
+        "name": "favicon.ico",
+        "bytes": 300,
+        "duration": 670.1000000089407
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "lcp": 3028,
+    "cls": 0,
+    "navigation": {
+      "name": "http://127.0.0.1:60405/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 2939.9000000059605,
+      "navigationId": 7749,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 5.0999999940395355,
+      "domainLookupStart": 5.0999999940395355,
+      "domainLookupEnd": 5.0999999940395355,
+      "connectStart": 5.0999999940395355,
+      "secureConnectionStart": 0,
+      "connectEnd": 5.0999999940395355,
+      "requestStart": 8,
+      "responseStart": 139.79999999701977,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 139.79999999701977,
+      "responseEnd": 207.29999999701977,
+      "transferSize": 9683,
+      "encodedBodySize": 9383,
+      "decodedBodySize": 9383,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 496,
+      "domContentLoadedEventStart": 2936.7000000029802,
+      "domContentLoadedEventEnd": 2938.2000000029802,
+      "domComplete": 2939.5999999940395,
+      "loadEventStart": 2939.7000000029802,
+      "loadEventEnd": 2939.9000000059605,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    },
+    "domContentLoaded": 2938.2000000029802,
+    "resources": [
+      {
+        "name": "styles.css",
+        "bytes": 8587,
+        "duration": 325.70000000298023
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 354.1000000089407
+      },
+      {
+        "name": "translations.js",
+        "bytes": 1889,
+        "duration": 273.6000000089407
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "lcp": 3056,
+    "cls": 0,
+    "navigation": {
+      "name": "http://127.0.0.1:60405/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 3963.5,
+      "navigationId": 8467,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 3.2999999970197678,
+      "domainLookupStart": 3.2999999970197678,
+      "domainLookupEnd": 3.2999999970197678,
+      "connectStart": 3.2999999970197678,
+      "secureConnectionStart": 0,
+      "connectEnd": 3.2999999970197678,
+      "requestStart": 6.799999997019768,
+      "responseStart": 120.29999999701977,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 120.29999999701977,
+      "responseEnd": 234.29999999701977,
+      "transferSize": 9683,
+      "encodedBodySize": 9383,
+      "decodedBodySize": 9383,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 3060.7999999970198,
+      "domContentLoadedEventStart": 3063.5,
+      "domContentLoadedEventEnd": 3063.5999999940395,
+      "domComplete": 3962.7999999970198,
+      "loadEventStart": 3963.2000000029802,
+      "loadEventEnd": 3963.5,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    },
+    "domContentLoaded": 3063.5999999940395,
+    "resources": [
+      {
+        "name": "styles.css",
+        "bytes": 8587,
+        "duration": 361.59999999403954
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 329.79999999701977
+      },
+      {
+        "name": "translations.js",
+        "bytes": 1889,
+        "duration": 420.69999998807907
+      }
+    ],
+    "overflow": false
+  }
+]

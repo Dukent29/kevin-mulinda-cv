@@ -1,0 +1,91 @@
+[
+  {
+    "lcp": 5892,
+    "cls": 0,
+    "domContentLoaded": 4397.29999999702,
+    "resources": [
+      {
+        "name": "css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap",
+        "bytes": 0,
+        "duration": 3136.800000011921
+      },
+      {
+        "name": "styles.css",
+        "bytes": 25014,
+        "duration": 573.3999999910593
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 463.40000000596046
+      },
+      {
+        "name": "translations.js",
+        "bytes": 13105,
+        "duration": 403.5
+      },
+      {
+        "name": "favicon.ico",
+        "bytes": 300,
+        "duration": 176.40000000596046
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "lcp": 4784,
+    "cls": 0,
+    "domContentLoaded": 5478.199999988079,
+    "resources": [
+      {
+        "name": "css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap",
+        "bytes": 0,
+        "duration": 3074.2000000029802
+      },
+      {
+        "name": "styles.css",
+        "bytes": 25014,
+        "duration": 492
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 412.6000000089407
+      },
+      {
+        "name": "translations.js",
+        "bytes": 13105,
+        "duration": 366.40000000596046
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "lcp": 4204,
+    "cls": 0,
+    "domContentLoaded": 4258.70000000298,
+    "resources": [
+      {
+        "name": "css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap",
+        "bytes": 0,
+        "duration": 3053.7000000029802
+      },
+      {
+        "name": "styles.css",
+        "bytes": 25014,
+        "duration": 464.5
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 415.29999999701977
+      },
+      {
+        "name": "translations.js",
+        "bytes": 13105,
+        "duration": 389.09999999403954
+      }
+    ],
+    "overflow": false
+  }
+]

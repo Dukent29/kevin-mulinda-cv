@@ -1,0 +1,76 @@
+Kevin Mulinda Bruce
+IT SUPPORT TECHNICIAN
+User Support · Service Desk · Workstation Deployment · Microsoft 365
+Rouen, France · Available to work in the Paris region
+English: fluent · French: fluent · Spanish: basic
+mulindakevin7@gmail.com 06 26 99 36 95 LinkedIn: linkedin.com/in/mulindakevin GitHub: github.com/dukent29
+PROFILE
+Versatile IT professional with experience in end-user support, workstation setup, office software deployment and troubleshooting
+common technical issues. With additional experience in web development, I combine technical problem-solving, communication
+and adaptability to support users and business operations. Currently pursuing a master's-level qualification in computer
+engineering.
+PROFESSIONAL EXPERIENCE
+IT Support Assistant / Office Software Deployment
+Bouygues — Apr. 2025 → Aug. 2025
+Installed and configured office and communication tools for users.
+Prepared workstations, user workspaces and work environments.
+Helped users get started with internal software and resolved common issues.
+Web Developer — Kotan Voyage
+Sep. 2025 → Sep. 2026
+Developed booking websites and integrated APIs, including RateHawk.
+Structured databases and automated business workflows.
+Managed payments, webhooks and related verifications.
+Apprentice Web Developer
+Horspiste — Oct. 2023 → Aug. 2024
+Developed websites, intranets and PWAs with WordPress and Elementor; collaborated with designers.
+Built moncarrebois.fr and its online store.
+Front-end Developer Intern
+Espoir Jeunes — Apr. 2023 → Jun. 2023
+Redesigned a showcase website with a focus on responsive design, accessibility and fundamental SEO.
+Apprentice Full-stack Developer
+BearStudio — Sep. 2021 → Jul. 2022
+Developed responsive interfaces with Next.js and Tailwind CSS.
+Contributed to front-end and back-end features using Firebase and Node.js, in collaboration with the design team.
+ADDITIONAL EXPERIENCE
+Hospitality & cleaning
+Hotel/restaurant kitchen porter · Office cleaner
+Maintained punctuality and followed procedures in fast-paced work environments.
+Kevin Mulinda Bruce · IT SUPPORT TECHNICIAN
+SKILLS
+IT support
+PRACTICAL EXPERIENCE
+User assistance · Common incident resolution · Workstation setup and configuration · User environment preparation · Office
+software deployment · Hardware maintenance
+Microsoft environment
+FOUNDATIONAL KNOWLEDGE
+Windows 10 / 11 · Microsoft 365 · Outlook, Word, Excel, Teams · Active Directory · User accounts and permissions
+Networks and systems
+FOUNDATIONAL KNOWLEDGE
+TCP/IP · DNS · DHCP · VLAN · Basic network configuration · Connectivity troubleshooting · Windows environments
+Development and automation
+COMPLEMENTARY SKILLS
+JavaScript · React / Next.js / Angular / Nuxt · Node.js · PHP / Symfony · SQL · APIs · Git / GitHub · Docker · TypeScript (basic
+knowledge)
+Additional tools
+WEB, DATA AND HOSTING
+HTML / CSS · WordPress / Elementor / Webflow · Firebase · PostgreSQL / MySQL / Oracle / MongoDB · Figma · OVH / Ionos /
+Infomaniak
+EDUCATION
+Master's Year 1 in Computer Engineering
+Need For School, Rouen — October 2025 → present
+Bac+3 qualification in Web Development, Integration & Mobile Applications
+Need For School, Rouen — October 2022 → September 2025
+Web Development & Integration
+CESI Rouen — 2021 → 2022
+SELECTED PROJECTS
+Dream Team App
+Nuxt.js • Node.js • MySQL
+Youth football academy platform for tracking player potential, communicating with parents and managing monthly fees.
+Includes user workspaces, role management and JWT authentication.
+Smart Gardening Assistant
+Next.js • Node.js • MongoDB
+Remote plant-care application with data monitoring, alerts and practical care guidance.
+STRENGTHS
+Independence · Teamwork · Energy
+INTERESTS
+Cooking · Cinema · Documentaries · Social media · Football · Travel · Thrill-seeking activities · Cultural discovery

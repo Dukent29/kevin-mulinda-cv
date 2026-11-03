@@ -1,0 +1,62 @@
+[
+  {
+    "language": "FR",
+    "theme": "light",
+    "pages": 1,
+    "bytes": 49112,
+    "characters": 4253,
+    "links": [
+      "https://github.com/Dukent29/buildflow",
+      "https://github.com/Dukent29/smart-gardening-front",
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  },
+  {
+    "language": "FR",
+    "theme": "dark",
+    "pages": 1,
+    "bytes": 43372,
+    "characters": 4253,
+    "links": [
+      "https://github.com/Dukent29/buildflow",
+      "https://github.com/Dukent29/smart-gardening-front",
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  },
+  {
+    "language": "EN",
+    "theme": "light",
+    "pages": 1,
+    "bytes": 47894,
+    "characters": 3880,
+    "links": [
+      "https://github.com/Dukent29/buildflow",
+      "https://github.com/Dukent29/smart-gardening-front",
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  },
+  {
+    "language": "EN",
+    "theme": "dark",
+    "pages": 1,
+    "bytes": 42149,
+    "characters": 3880,
+    "links": [
+      "https://github.com/Dukent29/buildflow",
+      "https://github.com/Dukent29/smart-gardening-front",
+      "tel:+33626993695",
+      "mailto:mulindakevin7@gmail.com",
+      "https://www.linkedin.com/in/mulindakevin",
+      "https://github.com/dukent29"
+    ]
+  }
+]

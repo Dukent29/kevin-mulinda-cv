@@ -1,0 +1,76 @@
+[
+  {
+    "lcp": 6176,
+    "cls": 0,
+    "domContentLoaded": 5227.70000000298,
+    "resources": [
+      {
+        "name": "styles.css",
+        "bytes": 8599,
+        "duration": 292.19999998807907
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 347.59999999403954
+      },
+      {
+        "name": "translations.js",
+        "bytes": 1889,
+        "duration": 263.20000000298023
+      },
+      {
+        "name": "favicon.ico",
+        "bytes": 300,
+        "duration": 181.40000000596046
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "lcp": 4712,
+    "cls": 0,
+    "domContentLoaded": 4771.20000000298,
+    "resources": [
+      {
+        "name": "styles.css",
+        "bytes": 8599,
+        "duration": 454.8999999910593
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 533.2999999970198
+      },
+      {
+        "name": "translations.js",
+        "bytes": 1889,
+        "duration": 469.70000000298023
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "lcp": 5276,
+    "cls": 0,
+    "domContentLoaded": 5413.20000000298,
+    "resources": [
+      {
+        "name": "styles.css",
+        "bytes": 8599,
+        "duration": 306.6000000089407
+      },
+      {
+        "name": "image_2.jpeg",
+        "bytes": 16064,
+        "duration": 366.40000000596046
+      },
+      {
+        "name": "translations.js",
+        "bytes": 1889,
+        "duration": 259.20000000298023
+      }
+    ],
+    "overflow": false
+  }
+]
